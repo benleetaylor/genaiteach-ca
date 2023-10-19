@@ -1,0 +1,72 @@
+.survey-cta {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 3rem 3.75rem;
+}
+
+.survey-cta p {
+  margin-bottom: 0.9375rem;
+  font-size: 1.3125rem;
+  font-weight: 200;
+}
+
+.survey-cta h2 {
+  text-align: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.centered a {
+  padding: 0.9375rem 1.875rem;
+  font-size: 1.625rem;
+  margin-top: 0.625rem;
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+.content-highlight {
+  margin-bottom: 2rem;
+  background-color: #1a3a48;
+  border-radius: .3rem;
+  color: #edede8;
+}
+
+
+.btn-survey
+{
+  background-color: #E54825;
+  border-color: #E54825;
+}
+
+.btn-survey:hover
+{
+  color: #fff;
+  background-color: #d53c19;
+  border-color: #d63c19;
+}
+
+.btn-loi
+{
+  background-color: #0391A1;
+  border-color: #0391A1;
+}
+
+
+.btn-loi:hover
+{
+  color: #fff;
+  background-color: #038290;
+  border-color: #038290;
+}
+
+.btn-group-lg > .btn, .btn-lg {
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: .3rem;
+}
+
+.institute-logo-footer {
+  text-align: center;
+}
