@@ -20,8 +20,9 @@ author: Ben Lee Taylor
 ###############################################
 
 navbar-links:
-  Project Background: "project-background"
   Assessment Repository: "oer-assessment-repository"
+  Project Background: "project-background"
+  Research Team: "research-team"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -51,11 +52,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "taylob36@mcmcaster.ca"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+ email: "taylob36@mcmcaster.ca"
+ # rss: true  # remove this line if you don't want to show an RSS link at the bottom
  # facebook: deanattali
-  github: benleetaylor
- # twitter: daattali
+ # github: benleetaylor
+ twitter: McMaster_MI
  # patreon: DeanAttali
  # youtube: c/daattali
 #  medium: yourname
@@ -74,8 +75,8 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+#  ORCID: 0009-0002-7471-1342
+#  google-scholar: ben
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
