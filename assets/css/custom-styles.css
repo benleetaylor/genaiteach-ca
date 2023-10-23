@@ -35,29 +35,60 @@
 
 .btn-survey
 {
-  background-color: #E54825;
-  border-color: #E54825;
+  color: #fff !important;
+  background-color: #E54825 !important;
+  border-color: #E54825 !important;
 }
 
 .btn-survey:hover
 {
   color: #fff;
-  background-color: #d53c19;
-  border-color: #d63c19;
+  background-color: #d53c19 !important;
+  border-color: #d63c19 !important;
+}
+
+.btn-survey:focus
+{
+  color: #fff;
+  background-color: #d53c19 !important;
+  box-shadow: 0 0 0 .2rem rgba(55,168,6,.5) !important;
+}
+
+
+.btn-survey:active
+{
+  color: #fff;
+  background-color: #d53c19 !important;
+  border-color: #d63c19 !important;
 }
 
 .btn-loi
 {
-  background-color: #0391A1;
-  border-color: #0391A1;
+  color: #fff !important;
+  background-color: #0391A1 !important;
+  border-color: #0391A1 !important;
 }
 
 
 .btn-loi:hover
 {
   color: #fff;
-  background-color: #038290;
-  border-color: #038290;
+  background-color: #038290 !important;
+  border-color: #038290 !important;
+}
+
+.btn-loi:focus
+{
+  color: #fff;
+  background-color: #038290 !important;
+  box-shadow: 0 0 0 .2rem rgba(55,168,6,.5) !important;
+}
+
+.btn-loi:active
+{
+  color: #fff;
+  background-color: #038290 !important;
+  border-color: #038290 !important;
 }
 
 .btn-group-lg > .btn, .btn-lg {
