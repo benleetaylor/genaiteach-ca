@@ -8,4 +8,9 @@ This is the future home of our Generative AI and Assessment (GAIA) repository, w
 
 We intend to begin adding assessments toward the end of 2023.
 
+<!-- {% for assessment in site.assessments %}
+  <h2><a href="{{ assessment.url }}">{{ assessment.title }}</a></h2>
+  <p>{{ assessment.content | markdownify }}</p>
+{% endfor %} -->
+
 {% include survey-recruitment-box.html %}
