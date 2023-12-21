@@ -2,7 +2,7 @@
 layout: base
 ---
 
-{% include header.html type="page" %}
+{% include assessment-card.html %}
 
 <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
   <div class="row">
@@ -15,8 +15,10 @@ layout: base
         </div>
       {% endif %}
 
-      <p>{{ page.author }}</p>
-	  <p>{{ page.institution }}</p>
+	  <section class="assessment-content">
+	  <h3>Assessment Content</h2>	  
+	  {{ content }}
+	  </section>
 
       {% if page.after-content %}
         <div class="after-content">

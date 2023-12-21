@@ -1,0 +1,37 @@
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+
+<header class="header-section {% if page.cover-img %}has-img{% endif %}">
+<div class="intro-header {% if page.cover-img %} big-img {% endif %}">
+  {% if page.cover-img or page.title %}
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="{{ include.type }}-heading">
+          
+          <div class="metadata-card">
+        <div class="card-header">
+            <h2>{{ page.title }}</h2>
+        </div>
+        <div class="card-content">
+            <p><strong>Author:</strong> {{ page.author }}</p>
+            <p><strong>Institution:</strong> {{ page.institution }}</p>
+            <p><strong>Discipline:</strong> {{ page.discipline }} </p>
+            <p><strong>Description:</strong> {{ page.description }} </p>
+        </div>
+    </div>
+         
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if page.cover-img %}<span class='img-desc'></span>{% endif %}
+</div>
+
+{% if page.header-extra %}
+  {% for file in page.header-extra %}
+    {% include {{ file }} %}
+  {% endfor %}
+{% endif %}
+
+</header>
