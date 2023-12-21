@@ -6,6 +6,7 @@ institution: Laurentian University
 discipline: History
 description: This assignment requires students to generate a written work of history using AI and then to assess that as a work of history, supporting their judgment with library research.
 download: liedl_janice_assessment_39.pdf
+after-content: cc-license.html
 ---
 
 Historians assess histories. In this assignment, you develop a prompt

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Assessment Repository
+share-title: AI Assessment Repository | Open Educational Resources (OER) 
+share-description: Sample assessments collected from instructors that incorporate or respond to generative AI (e.g., ChatGPT).  
 ---
 
 The following assessments have been submitted by study participants. Participants have given the researchers permission to share these assessments under a [Creative Commons Public Domain License (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/){:target="_blank"}.
