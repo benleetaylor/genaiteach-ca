@@ -9,10 +9,15 @@ The following assessments have been submitted by study participants. Participant
 <p>Click on an assessment's title to view its contents in full, or click "Download" to view and download the originally submitted document.</p>
 
 <div class="resource-list">
-        <ul>
+        <div class="list-header">
+				<div class="title">Title</div>
+				<div class="author">Author</div>
+				<div class="download">Download</div>
+			</div>
+		<ul>
         {% for assessment in site.assessments %}
             <li>
-                <div class="title"><a href="{{ assessment.url }}">{{ assessment.title }}</a></div>
+                <div class="title"><a href="{{ assessment.url }}">{{ assessment.short-title }}</a></div>
                 <div class="author">{{ assessment.author}}</div>
                 <div class="download"><a href="/downloads/{{ assessment.download }}">Download</a></div>
             </li>

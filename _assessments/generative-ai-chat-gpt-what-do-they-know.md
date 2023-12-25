@@ -1,13 +1,17 @@
 ---
 layout: assessment
 title: "Generative AI and ChatGPT: What Do They Know? Do They Know Things? Let's Find Out!"
+short-title: "Generative AI and ChatGPT: What Do They Know?"
 author: Sean A. McPhail
 institution: University of Windsor, McMaster University, University of Toronto Mississauga
 discipline: English Language and Literature
 description: "To complete this assignment, students ask ChatGPT to explain their novel's significance to World Literature. When testing the AI, I found that it regularly gave very simple answers that spoke to (what we could broadly classify) each novel's depiction of colonialism, its narrative, and its use of language. These terms have more than one possible definition in our discipline, and so the assignment allows students to interpret them how they please and build their own answers off the AI's suggestion."
 download: mcphail_sean_a_assessment_13.pdf
 after-content: cc-license.html
+id: 13
 ---
+
+**(750 WORDS +/- 10%) (15% OF FINAL GRADE)**
 
 Select one of the novels on the course syllabus (i.e. Soyinka, Rhys, or
 Coetzee). Then, type the following into ChatGPT: "Write a 5-6 sentence
@@ -26,5 +30,3 @@ response should respond to the AI's discussion (or lack thereof) of
 sure you include at least one textual example from the novel in question
 to support your position. You are welcome to use secondary sources to
 support your argument, but this is not required.
-
-**(750 WORDS +/- 10%) (15% OF FINAL GRADE)**
