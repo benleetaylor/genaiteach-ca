@@ -290,14 +290,14 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+   - jekyll-paginate
+   - jekyll-sitemap
 
 # Custom collections
 collections:
   assessments:
     output: true
-  
+     
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 

@@ -15,13 +15,13 @@ The following assessments have been submitted by study participants. Participant
 				<div class="download">Download</div>
 			</div>
 		<ul>
-        {% for assessment in site.assessments %}
+        {% assign assessments = site.assessments | sort: "author-surname" %}
+        {% for assessment in assessments %}
             <li>
                 <div class="title"><a href="{{ assessment.url }}">{{ assessment.short-title }}</a></div>
-                <div class="author">{{ assessment.author}}</div>
+                <div class="author">{{ assessment.author }}</div>
                 <div class="download"><a href="/downloads/{{ assessment.download }}">Download</a></div>
             </li>
         {% endfor %}
-            <!-- Repeat the above <li> block for each resource -->
         </ul>
     </div>

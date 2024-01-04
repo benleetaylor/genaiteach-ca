@@ -204,3 +204,7 @@
 .resource-list .download {
 		font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
+    
+h3 + ul {
+		margin-top: 1.875rem;
+	}

@@ -3,6 +3,7 @@ layout: assessment
 title: "AI History Assessment"
 short-title: "AI History Assessment"
 author: Janice Liedl
+author-surname: Liedl
 institution: Laurentian University
 discipline: History
 description: This assignment requires students to generate a written work of history using AI and then to assess that as a work of history, supporting their judgment with library research.
