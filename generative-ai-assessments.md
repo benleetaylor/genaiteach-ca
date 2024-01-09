@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Assessment Repository
-share-title: AI Assessment Repository | Open Educational Resources (OER) 
+title: Sample Assessment Library
+share-title: Generative AI Sample Assessments | Open Educational Resources (OER) 
 share-description: Sample assessments collected from instructors that incorporate or respond to generative AI (e.g., ChatGPT).  
 ---
 
