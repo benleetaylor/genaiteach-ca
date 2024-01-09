@@ -4,7 +4,7 @@ title: "Can ChatGPT Teach Evolution?"
 short-title: "Can ChatGPT Teach Evolution?"
 author: Anonymous
 author-surname: Anonymous
-institution: McMaster University
+institution: N/A
 discipline: Anthropology
 description: "For this reflection, you will critically evaluate responses from
 generative AI technology such as ChatGPT. You may use any text
@@ -21,8 +21,6 @@ id: 95
 ---
 
 **Reflection 2 -- Can ChatGPT Teach Evolution (30 pts)**
-
-NAME\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Instructions**: Download, fill-in, and submit this form. You
 must maintain this document's 1-inch margins, single-spacing, and 12pt
@@ -89,5 +87,7 @@ question to get something good.
 Please submit this form as a .pdf, .doc, .docx. Do not submit as a .pages.
 
 1.  **What generative AI program did you use?**
-2.  **Copy and past your AI prompt below:**
+
+2.  **Copy and paste your AI prompt below:**
+
 3.  **Write a 200-400 word Reflection below:**
