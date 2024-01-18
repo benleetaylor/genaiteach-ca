@@ -32,6 +32,13 @@
   color: #edede8;
 }
 
+.content-highlight a {
+  color: #00CC00;
+}
+
+.content-highlight a:hover {
+  color: #00CC00;
+}
 
 .btn-survey
 {
@@ -93,8 +100,8 @@
 
 .btn-repo {
   color: #fff;
-  background-color: #37a806; /* Solid green background */
-  border: 2px solid #37a806; /* Solid green border */
+  background-color: #228807; /* Solid green background */
+  border: 2px solid #228807; /* Solid green border */
   padding: 0.5rem 1rem;
   text-decoration: none;
   border-radius: 0.25rem;
@@ -238,3 +245,11 @@
 h3 + ul {
 		margin-top: 1.875rem;
 	}
+
+.navbar a:hover {
+  color: #00CC00 !important;
+}
+
+footer a {
+  color: #00CC00 !important;
+}
